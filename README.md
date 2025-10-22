@@ -24,5 +24,5 @@ Passengers on Deutsche Bahn often face irregular train delays and disruptions be
 7. Data Sources: Deutsche Bahn open data API, OpenWeatherMap API, Calender/Holiday API
 
 # Phase Status
-1.Conception Phase - Done
-2.Development Phase - under progress
+1. Conception Phase - Done
+2. Development Phase - under progress
