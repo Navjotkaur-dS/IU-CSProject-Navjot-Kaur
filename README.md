@@ -28,5 +28,5 @@ Passengers on Deutsche Bahn often face irregular train delays and disruptions be
 
 
 # Phase Status
-1.Conception Phase - Done
-2.Development Phase - under progress
+1. Conception Phase - Done
+2. Development Phase - under progress
