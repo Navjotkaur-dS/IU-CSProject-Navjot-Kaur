@@ -7,12 +7,12 @@ Passengers on Deutsche Bahn often face irregular train delays and disruptions be
 
 # Goal:
 **Predict train delays and disruptions** before they occur using historical and real-time data.  
-- ⏱️ **Provide accurate projections** of delay times across various routes and time periods.  
-- 🌦️ **Identify main causes** of delays such as bad weather, track maintenance, and traffic congestion.  
-- 🧠 **Use predictive data** to help train operators make better operational choices.  
-- 🚉 **Enhance passenger experience** by delivering reliable travel information and early alerts about delays.  
-- 💻 **Offer a simple and clear display** for showing train status and prediction results.  
-- 🧩 **Develop a modular AI system** that allows continuous learning, updates, and scalability.
+-  **Provide accurate projections** of delay times across various routes and time periods.  
+-  **Identify main causes** of delays such as bad weather, track maintenance, and traffic congestion.  
+-  **Use predictive data** to help train operators make better operational choices.  
+-  **Enhance passenger experience** by delivering reliable travel information and early alerts about delays.  
+-  **Offer a simple and clear display** for showing train status and prediction results.  
+-  **Develop a modular AI system** that allows continuous learning, updates, and scalability.
 
 # Tech Stack:
 | # | Feature | Description |
