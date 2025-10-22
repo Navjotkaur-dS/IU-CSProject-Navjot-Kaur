@@ -15,15 +15,16 @@ Passengers on Deutsche Bahn often face irregular train delays and disruptions be
 -  **Develop a modular AI system** that allows continuous learning, updates, and scalability.
 
 # Tech Stack:
-| # | Feature | Description |
-|---|----------|-------------|
-| 1 | **Predict Train Delays & Disruptions** | Predict train delays and disruptions before they occur using historical and real-time data. |
-| 2 | **Accurate Delay Projections** | Provide accurate projections of delay times across various routes and time periods. |
-| 3 | **Identify Delay Causes** | Determine the main causes of train delays such as bad weather, track maintenance, and traffic congestion. |
-| 4 | **Operational Decision Support** | Use predictive data to help train operators make better operational choices. |
-| 5 | **Enhanced Passenger Experience** | Provide reliable travel information and early alerts about possible delays. |
-| 6 | **User-Friendly Display** | Offer a simple interface for showing train status and prediction results. |
-| 7 | **Modular AI System** | Build an understandable, modular AI system that allows continuous learning and development. |
+| Component            | Technology / Library                        | Description                                                                 |
+|---------------------|--------------------------------------------|-----------------------------------------------------------------------------|
+| **Frontend**         | React.js, Plotly.js                         | User interface for visualizing real-time predictions and analytics.        |
+| **Backend API**      | FastAPI, Flask                              | REST APIs for serving predictions, explanations, and handling requests.    |
+| **Database**         | PostgreSQL                                  | Store structured data, historical data, and prediction results.            |
+| **AI Engine**        | Scikit-learn, XGBoost, SHAP                | Machine learning models and interpretability for predicting delays.        |
+| **Data Ingestion**   | Python, Airflow, APIs                        | Collection, cleaning, and preprocessing of live and historical data.       |
+| **Integration**      | REST APIs, WebSockets                        | Connecting frontend, backend, and data pipelines for real-time updates.    |
+| **Data Sources**     | Deutsche Bahn Open Data API, OpenWeatherMap API, Calendar/Holiday API | Source data for train schedules, weather conditions, and holidays.        |
+
 
 # Phase Status
 1. Conception Phase - Done
