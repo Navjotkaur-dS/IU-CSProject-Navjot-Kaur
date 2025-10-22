@@ -3,7 +3,7 @@
 # Predictive Train Delay and Disruption Analysis System (Deutsche Bahn)
 
 # Problem Statement:
-Passengers on Deutsche Bahn often face irregular train delays and disruptions because of variety of factors such as weather conditions,track maintenance,platform congestion ,vehicle change and peak hour traffic.Most of the information provided by the available systems is reactive and discriptive. It means that passengers are informed about the delays afterwords rather than before delays happen.This kind of reactive information or strategy effects planning of both passengers and train operators and that result in irritation,missing connection and poor resource management.DEcision makers find it difficult to take measures to prevent them because current tools are not providing precise information abbout why disruptions occur.
+Passengers on Deutsche Bahn often face irregular train delays and disruptions because of variety of factors such as weather conditions,track maintenance,platform congestion ,vehicle change and peak hour traffic.Most of the information provided by the available systems is reactive and discriptive. It means that passengers are informed about the delays afterwords rather than before delays happen.This kind of reactive information or strategy effects planning of both passengers and train operators and that result in irritation,missing connection and poor resource management.Decision makers find it difficult to take measures to prevent them because current tools are not providing precise information abbout why disruptions occur.
 
 # Goal:
 1. Predict Train delays and disruptions before they occur using historical and real-time data.
